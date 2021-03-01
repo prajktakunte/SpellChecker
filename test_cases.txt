@@ -1,0 +1,11 @@
+curl http://localhost:8080/spelling/Balloon
+
+curl http://localhost:8080/spelling/balllooooon
+curl http://localhost:8080/spelling/balln
+curl http://localhost:8080/spelling/BAllOOn
+curl http://localhost:8080/spelling/bllllLLlln
+curl http://localhost:8080/spelling/House
+curl http://localhost:8080/spelling/Balllon
+
+curl http://localhost:8080/spelling/dua
+curl http://localhost:8080/spelling/fsiuyfiusyifys
